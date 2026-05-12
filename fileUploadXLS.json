@@ -1,29 +1,29 @@
 {
-  "id": "com.ZESPRI.fileUploadXLS",
+  "id": "com.rohitchouhan.fileUploadXLS",
   "name": "fileUploadXLS",
   "version": "1.0.0",
   "description": "A custom widget designed to work with Excel or XLS files, helping you retrieve file data in JSON, raw, and multiple other formats",
   "newInstancePrefix": "fileUploadXLS",
-  "vendor": "ZESPRI",
-  "eula": "ZESPRI",
+  "vendor": "rohitchouhan.com",
+  "eula": "rohitchouhan.com",
   "license": "MIT",
   "icon": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/fileUploadXLS@1.0.0\/icon.png",
   "imports": [
     "datasource",
     "planning-model"
   ],
-    "webcomponents": [
+  "webcomponents": [
     {
       "kind": "main",
       "tag": "file-upload-xls",
-      "url": "https://github.com/x78042693-source/ZESPRI/blob/488cf751973015a3803dc05103c9edf62ef6e878/fileUploadXLS.bundle.js",
+      "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/fileUploadXLS@1.0.0\/fileUploadXLS.bundle.js",
       "integrity": "sha256-3cwsOaW+I2jKX3zZxom+pJ7RzXoS0i6UnCM2Vst1qLM=",
       "ignoreIntegrity": false
     },
     {
       "kind": "builder",
       "tag": "file-upload-xls-builder",
-      "url": "https://github.com/x78042693-source/ZESPRI/blob/488cf751973015a3803dc05103c9edf62ef6e878/fileUploadXLS.bundle.js",
+      "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/fileUploadXLS@1.0.0\/fileUploadXLS.bundle.js",
       "integrity": "sha256-3cwsOaW+I2jKX3zZxom+pJ7RzXoS0i6UnCM2Vst1qLM=",
       "ignoreIntegrity": false
     }
