@@ -16,14 +16,14 @@
     {
       "kind": "main",
       "tag": "file-upload-xls",
-      "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/fileUploadXLS@1.0.0\/fileUploadXLS.bundle.js",
+      "url": "https://github.com/x78042693-source/ZESPRI/blob/3dc8b34259bbe9536f8b9d9fbe94898c1a72fe3e/fileUploadXLS.bundle.js",
       "integrity": "sha256-3cwsOaW+I2jKX3zZxom+pJ7RzXoS0i6UnCM2Vst1qLM=",
       "ignoreIntegrity": false
     },
     {
       "kind": "builder",
       "tag": "file-upload-xls-builder",
-      "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/fileUploadXLS@1.0.0\/fileUploadXLS.bundle.js",
+      "url": "https://github.com/x78042693-source/ZESPRI/blob/3dc8b34259bbe9536f8b9d9fbe94898c1a72fe3e/fileUploadXLS.bundle.js",
       "integrity": "sha256-3cwsOaW+I2jKX3zZxom+pJ7RzXoS0i6UnCM2Vst1qLM=",
       "ignoreIntegrity": false
     }
