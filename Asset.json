@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-ZESPRI-sap-sac-excel",
-      "url": "https://ZESPRIsac.github.io/Excel-Upload/excel.js",
+      "url": "https://github.com/x78042693-source/ZESPRI/excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-ZESPRI-sap-sac-excel-aps",
-      "url": "https://ZESPRIsac.github.io/Excel-Upload/aps_excel.js",
+      "url": "https://github.com/x78042693-source/ZESPRI/aps_excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
