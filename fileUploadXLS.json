@@ -17,14 +17,14 @@
       "kind": "main",
       "tag": "file-upload-xls",
       "url": "https://cdn.jsdelivr.net/gh/x78042693-source/ZESPRI@latest/fileUploadXLS.bundle.js",
-      "integrity": "sha256-3cwsOaW+I2jKX3zZxom+pJ7RzXoS0i6UnCM2Vst1qLM=",
+      "integrity": "sha384-7+nSqs+ULmxcgtfnjxVzVbptv1kGK1J5HbztRDPMYT+KnhAHE0/zaNaWYfwR+Udg",
       "ignoreIntegrity": false
     },
     {
       "kind": "builder",
       "tag": "file-upload-xls-builder",
       "url": "https://cdn.jsdelivr.net/gh/x78042693-source/ZESPRI@latest/fileUploadXLS.bundle.js",
-      "integrity": "sha256-3cwsOaW+I2jKX3zZxom+pJ7RzXoS0i6UnCM2Vst1qLM=",
+      "integrity": "sha384-7+nSqs+ULmxcgtfnjxVzVbptv1kGK1J5HbztRDPMYT+KnhAHE0/zaNaWYfwR+Udg",
       "ignoreIntegrity": false
     }
   ],
